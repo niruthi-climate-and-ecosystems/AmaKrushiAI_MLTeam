@@ -1,0 +1,10 @@
+streamlit
+langchain
+faiss-cpu
+openai
+unstructured
+tiktoken
+langchain-community
+translatepy
+pydub
+scikit-learn

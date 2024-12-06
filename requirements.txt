@@ -9,3 +9,4 @@ translatepy
 pydub
 scikit-learn
 openpyxl
+plotly

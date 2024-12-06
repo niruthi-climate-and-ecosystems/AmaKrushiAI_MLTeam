@@ -108,7 +108,7 @@ if st.button("Submit",type="primary"):
         "config": {"use_streaming_response": False},
     }
     headers = {
-        "X-API-KEY": "zLXVtu2hFRaJo3mQSdWqwuz77RPKlsMR",
+        "X-API-KEY": "pgQBpPbAi9YhME75ecoXnRkl9Iof4GCo",
         "Content-Type": "application/json",
     }
 
